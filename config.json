@@ -1,0 +1,7 @@
+{
+  "appId": "1234567",
+  "masterKey": "7654321",
+  "appName": "parseApp",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:49153/parse"
+}

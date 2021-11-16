@@ -1,0 +1,10 @@
+{
+  "name": "parseapp",
+  "description": "parse-server for parseApp",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^3.9.0"
+  }
+}
