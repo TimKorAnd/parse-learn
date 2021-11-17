@@ -3,6 +3,7 @@
   "version": "3.4.0",
   "description": "The Parse JavaScript SDK",
   "homepage": "https://parseplatform.org/",
+  "type": "module",
   "keywords": [
     "cloud",
     "mobile",
